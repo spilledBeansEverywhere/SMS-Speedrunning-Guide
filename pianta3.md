@@ -10,6 +10,8 @@ These are my personal notes for Pianta 3, and many claims that are made here wil
 
 ## Video
 
+{% include youtube.html id="SSwOG_2nQko" %}
+
 https://www.youtube.com/watch?v=SSwOG_2nQko
 
 ## Bridge Movement
