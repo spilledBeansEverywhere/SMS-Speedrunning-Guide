@@ -3,7 +3,7 @@ title: Pianta Village
 layout: default
 has_children: true
 ---
-# General Movement
+# Pianta Village
 
 ## Bridge Tripple
 
