@@ -6,7 +6,7 @@ layout: home
 
 Hello, I'm emrik542 and this is my publicly avaliable repository for notes regarding SMS speedrunning. Most of these notes will pertain to RTA viable strategies meant for the any% category, and will be structured in such a way that it can serve as a guide for new players. 
 
-That being said, these are MY notes. They will primarily cover strategies that I use and may not be suitable for new players. Please have a look around though, you might find something usefull!
+That being said, these are MY notes. They will primarily cover strategies that I use and all may not be suitable for new players. Please have a look around though, you might find something usefull!
 
 I am from Sweden and have been running SMS since late 2022. I like cats, here are  my cats:
 
