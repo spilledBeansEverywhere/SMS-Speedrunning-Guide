@@ -29,6 +29,7 @@ Make sure to place Mario as close to the lava as possible, as to maximize the di
 
 
 ### Hold forward
+
 #### **DISCLAIMER**: THIS IS A VERY IMPORTANT DETAIL! THE VIABILITY OF THE STRAT RELIES ON IT!
 
 Right before getting hit by the wind, hold forward. This forces Mario to fall forward, allowing you to gain more distance. 

@@ -18,11 +18,12 @@ I am from Sweden and have been running SMS since late 2022. I like cats, here ar
 I have one more but he is so fucking crusty that I don't know if I want the public to be aware of his existence. 
 
 # Links
-## Speedrun.com
-https://www.speedrun.com/users/emrik542
 
-## Youtube
-https://www.youtube.com/channel/UCG9b-n2D2jdYHlHkXjQ6xAA
+## Speedrun.com
+[https://www.speedrun.com/users/emrik542](https://www.speedrun.com/users/emrik542)
+
+## YouTube
+[https://www.youtube.com/channel/UCG9b-n2D2jdYHlHkXjQ6xAA](https://www.youtube.com/channel/UCG9b-n2D2jdYHlHkXjQ6xAA)
 
 ## Individual Levels
-https://smsilview.netlify.app/#emrik
+[https://smsilview.netlify.app/#emrik](https://smsilview.netlify.app/#emrik)
