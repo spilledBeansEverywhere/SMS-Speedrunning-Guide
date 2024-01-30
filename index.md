@@ -10,7 +10,7 @@ That being said, these are MY notes. They will primarily cover strategies that I
 
 I am from Sweden and have been running SMS since late 2022. I like cats, here are  my cats:
 
-:3             |  :3
+Majsa :3             |  Wilda :3
 :-------------------------:|:-------------------------:
 ![](img/cats/cat2.jpg)  |  ![](img/cats/cat1.jpg)
 
