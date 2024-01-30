@@ -21,8 +21,8 @@ If you position Mario such that his head is next to the concaved part on the rig
 
 ![Setup](img/pianta2/setup.png)
 
-Notice how Marios head has only started to enter the shape. This is done so that he is not to far away from the shine. By placing mario like this, a groundpound to collect the shine can be done immidietely after it spawns. There isn't much need for precision here, but a visual cue can be used for good measure. In the previous image, notice the thick dark line positioned 4 o' clock of Mario. If you imagine that line continues, place Marios bottom half such that he intersects it:
+Notice how Mario's head has only started to enter the shape. This is done so that he is not to far away from the shine. By placing Mario like this, a groundpound to collect the shine can be done immediately after it spawns. There isn't much need for presicion here, but a visual cue can be used for good measure. In the previous image, notice the thick dark line positioned 4 o' clock of Mario. If you imagine that line continues, place Mario's bottom half such that the line intersects it:
 
 ![Red Line](img/pianta2/redline.png)
 
-At this point, wait for El Piantissimo, spam through his text (first 2 lines should be fast if the setup was done correctly). Collect the shine.
+At this point, wait for El Piantissimo and spam through his text (the first 2 lines should be fast if the setup was done correctly). Collect the shine.
