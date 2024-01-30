@@ -1,0 +1,4 @@
+---
+title: Stages
+layout: default
+---
