@@ -9,6 +9,7 @@ parent: Pianta Village
 These are my personal notes for Pianta 3, and many claims that are made here will likely lack evidence to back them up. The strategies, visual cues etc. that are recommended in this documment should therefore not be considered as a “fool proof” or "be-all and end-all" methodology for playing this level.
 
 ## Video
+
 https://www.youtube.com/watch?v=SSwOG_2nQko
 
 ## Bridge Movement
