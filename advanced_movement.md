@@ -36,3 +36,4 @@ By pressing B one frame after doing a GWK, Mario will enter a dive during the GW
 After doing a glitchy wallkick, Mario will be stuck in Y-Cam for half a second before being able to cancel out of it with a button press. By breifly hovering after the GWK, Mario will cancel out of Y-Cam instantly and be able to start moving again much faster.  
 
 ## Quick turn
+cancer
