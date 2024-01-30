@@ -5,7 +5,7 @@ parent: Movement and Tech
 ---
 
 # Advanced Movement
-This page will cover advanced movement, and assumes the reader has read about basic movement.
+This page will cover advanced movement, and assumes knowledge from the page about basic movement.
 
 ## Glitchy Wallkick (GWK)
 
