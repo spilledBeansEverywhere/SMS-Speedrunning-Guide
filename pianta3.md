@@ -12,8 +12,6 @@ These are my personal notes for Pianta 3, and many claims that are made here wil
 
 {% include youtube.html id="SSwOG_2nQko" %}
 
-https://www.youtube.com/watch?v=SSwOG_2nQko
-
 ## Bridge Movement
 Shorthop > Dive > Big rollout > Dive > Rollout > SJD (adjust camera to the left) > Rollout > TJD. 
 
