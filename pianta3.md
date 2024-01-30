@@ -6,8 +6,6 @@ parent: Pianta Village
 
 # Pianta 3 - Mushroom + GWKD
 
-## Video
-
 {% include youtube.html id="SSwOG_2nQko" %}
 
 ## Bridge Movement
