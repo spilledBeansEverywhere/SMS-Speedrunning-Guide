@@ -6,8 +6,6 @@ parent: Pianta Village
 
 # Pianta 3 - Mushroom + GWKD
 
-These are my personal notes for Pianta 3, and many claims that are made here will likely lack evidence to back them up. The strategies, visual cues etc. that are recommended in this documment should therefore not be considered as a “fool proof” or "be-all and end-all" methodology for playing this level.
-
 ## Video
 
 {% include youtube.html id="SSwOG_2nQko" %}
