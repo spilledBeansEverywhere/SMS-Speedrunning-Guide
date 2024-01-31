@@ -2,6 +2,7 @@
 title: Hover Slide
 layout: default
 parent: Advanced Movement
+grand_parent: Movement
 ---
 
 # Hover Slide

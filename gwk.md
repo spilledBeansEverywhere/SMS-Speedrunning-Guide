@@ -2,6 +2,7 @@
 title: Glitchy Wallkick
 layout: default
 parent: Advanced Movement
+grand_parent: Movement
 ---
 
 # Glitchy Wallkick (GWK)
