@@ -2,7 +2,7 @@
 title: Gelato Beach Skip
 layout: default
 parent: Gelato 8
-grandparent: Gelato Beach
+grand_parent: Gelato Beach
 ---
 
 # Gelato Beach Skip (GBS)
