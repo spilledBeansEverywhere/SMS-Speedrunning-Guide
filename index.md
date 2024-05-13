@@ -15,7 +15,7 @@ Majsa :3             |  Wilda :3
 # Links
 
 ## Speedrun.com
-[https://www.speedrun.com/users/emrik542](https://www.speedrun.com/users/spilledBeansEverywhere)
+[https://www.speedrun.com/users/spilledBeansEverywhere](https://www.speedrun.com/users/spilledBeansEverywhere)
 
 ## YouTube
 [https://www.youtube.com/channel/UCG9b-n2D2jdYHlHkXjQ6xAA](https://www.youtube.com/channel/UCG9b-n2D2jdYHlHkXjQ6xAA)
