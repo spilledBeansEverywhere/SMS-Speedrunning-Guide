@@ -8,4 +8,4 @@ has_children: true
 
 SMS is a hard game. The movement allows for intense gameplay and there's plenty of tech and other nuances that are difficult to notice unless you have someone else explain them to you. This page aims to serve as a glossary for general movement, tech, bugs etc. that will be usefull to know.
 
-This page assumes you are using a gamecube controller. If you don't, then you are probably a 3DAS or Dolphin user. Ain't nothin' wrong with that, I just happen to not give a shit.  
+This page assumes you are using a gamecube controller. If you don't, then you are probably a 3DAS or Dolphin user. Ain't nothin' wrong with that, I just happen to not give a shit. 
