@@ -1,6 +1,6 @@
 # just-the-docs-template
 
-dooby dooby :D
+hello im on a laptop!
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
